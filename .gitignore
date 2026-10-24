@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Môi trường ảo
+.venv/
+venv/
+
+# Django
+db.sqlite3
+*.log
+media/
+
+# Bí mật / cấu hình máy
+.env
+
+# IDE
+.idea/
+.vscode/
